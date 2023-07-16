@@ -3,7 +3,8 @@
     padding: 20px;
     border: 1px solid #000;
     box-sizing: border-box;
-    float: right;
+    margin: 0 auto;
+    
   }
   
   input {
@@ -41,5 +42,13 @@
     color: #fff;
     padding: 10px;
   }
+
+/*-------------------- 414 ---------------------*/
+@media screen and (min-width: 768px) {
+  .app{
+    float: right;
+  }
+  
+}
 
   
