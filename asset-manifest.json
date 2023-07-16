@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-Instant-Memo-Page/static/css/main.fd393ef4.css",
+    "main.js": "/-Instant-Memo-Page/static/js/main.4af832bd.js",
+    "index.html": "/-Instant-Memo-Page/index.html",
+    "main.fd393ef4.css.map": "/-Instant-Memo-Page/static/css/main.fd393ef4.css.map",
+    "main.4af832bd.js.map": "/-Instant-Memo-Page/static/js/main.4af832bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd393ef4.css",
+    "static/js/main.4af832bd.js"
+  ]
+}
